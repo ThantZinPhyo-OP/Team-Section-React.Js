@@ -7,7 +7,7 @@
 
 <br/>
 
-Responsive Portfolio Website Design Using React.Js CSS &amp; HTML
+Responsive Team Secton Design Using React.Js CSS &amp; HTML
 
 - Smooth scrolling in each section.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
@@ -25,7 +25,7 @@ Features
 
 ** Multi-Page Layout**
 
-** Styled with React-Bootstrap and Css with easy to customize colors**
+** Styled with React.Js and CSS with easy to customize colors**
 
 ** Fully Responsive**
 
